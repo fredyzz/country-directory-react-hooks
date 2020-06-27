@@ -5,7 +5,9 @@
 - API fetch
 - CSS animations to create flip cards
 
-Clone the proyect and run ### `npm start`
+Clone the repository and run
+
+### `npm install`
 
 ## Available Scripts
 
