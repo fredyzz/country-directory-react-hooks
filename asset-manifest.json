@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/country-directory-react-hooks/static/css/main.edc8c69d.chunk.css",
+    "main.js": "/country-directory-react-hooks/static/js/main.5f129390.chunk.js",
+    "main.js.map": "/country-directory-react-hooks/static/js/main.5f129390.chunk.js.map",
+    "runtime-main.js": "/country-directory-react-hooks/static/js/runtime-main.d3fc9844.js",
+    "runtime-main.js.map": "/country-directory-react-hooks/static/js/runtime-main.d3fc9844.js.map",
+    "static/js/2.37eefdf3.chunk.js": "/country-directory-react-hooks/static/js/2.37eefdf3.chunk.js",
+    "static/js/2.37eefdf3.chunk.js.map": "/country-directory-react-hooks/static/js/2.37eefdf3.chunk.js.map",
+    "index.html": "/country-directory-react-hooks/index.html",
+    "precache-manifest.1b294ef0f1cfc904032afad8a5958ad5.js": "/country-directory-react-hooks/precache-manifest.1b294ef0f1cfc904032afad8a5958ad5.js",
+    "service-worker.js": "/country-directory-react-hooks/service-worker.js",
+    "static/css/main.edc8c69d.chunk.css.map": "/country-directory-react-hooks/static/css/main.edc8c69d.chunk.css.map",
+    "static/js/2.37eefdf3.chunk.js.LICENSE.txt": "/country-directory-react-hooks/static/js/2.37eefdf3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3fc9844.js",
+    "static/js/2.37eefdf3.chunk.js",
+    "static/css/main.edc8c69d.chunk.css",
+    "static/js/main.5f129390.chunk.js"
+  ]
+}
