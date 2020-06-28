@@ -5,6 +5,10 @@
 - API fetch
 - CSS animations to create flip cards
 
+Preview:
+https://fredyzz.github.io/country-directory-react-hooks/
+
+
 Clone the repository and run
 
 ### `npm install`
